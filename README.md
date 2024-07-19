@@ -4,9 +4,41 @@ A simple and intuitive Todo List application built with Next.js. This app allows
 
 ## Features
 
--Add Tasks: Users can add new tasks to their to-do list with a title and description.
--Edit Tasks: Users can update the details of existing tasks.
--Delete Tasks: Users can remove tasks that are no longer needed.
--Mark as Completed: Users can mark tasks as completed to keep track of their progress.
--Filter Tasks: Users can filter tasks to view all, active, or completed tasks.
--Responsive Design: The app is optimized for both desktop and mobile devices, providing a seamless experience on any screen size.
+- Add Tasks:-  Users can add new tasks to their to-do list with a title and description.
+- Edit Tasks:-  Users can update the details of existing tasks.
+- Delete Tasks:-  Users can remove tasks that are no longer needed.
+- Mark as Completed:-  Users can mark tasks as completed to keep track of their progress.
+- Filter Tasks:-  Users can filter tasks to view all, active, or completed tasks.
+- Responsive Design:-  The app is optimized for both desktop and mobile devices, providing a seamless experience on any screen size.
+
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+## Prerequisites
+
+Make sure you have Node.js and npm installed on your machine.
+
+## Installation
+
+1. Clone the repository
+   ```sh
+   git clone https://github.com/your-username/todo-list-app.git
+   ```
+2. Navigate to the project directory
+   ```sh
+   cd todo-list-app
+   ```
+3. Install the dependencies
+   ```sh
+   npm install
+   ```
+
+## Running the App
+
+1. Start the development server
+   ```sh
+   npm run dev
+   ```
+2. Open your browser and visit http://localhost:3000 to see the app in action.
+
