@@ -49,5 +49,5 @@ Make sure you have Node.js and npm installed on your machine.
    ```sh
    npm run dev
    ```
-3. Open your browser and visit http://localhost:3000 to see the app in action.
+3. Open your browser and visit http://localhost:5173 to see the app in action.
 
