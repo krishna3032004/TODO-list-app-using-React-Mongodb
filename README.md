@@ -23,7 +23,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/krishna3032004/TODO-list-app-using-React-Mongodb.git
    ```
 2. Navigate to the project directory
    ```sh
@@ -31,14 +31,23 @@ Make sure you have Node.js and npm installed on your machine.
    ```
 3. Install the dependencies
    ```sh
-   npm install
+   npm install express
+   npm install cors
+   npm install uuid
+   npm install mongodb
+   npm install body-parser
    ```
 
 ## Running the App
 
-1. Start the development server
+1. Start the backend server
+   ```sh
+   npm install
+   node --watch server.js
+   ```
+2. Start the development server
    ```sh
    npm run dev
    ```
-2. Open your browser and visit http://localhost:3000 to see the app in action.
+3. Open your browser and visit http://localhost:3000 to see the app in action.
 
