@@ -42,6 +42,8 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Start the backend server
    ```sh
+   //first navigate to backend directory
+   cd backend  
    npm install
    node --watch server.js
    ```
